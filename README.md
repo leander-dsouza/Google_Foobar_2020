@@ -28,6 +28,8 @@ Collective codebase of a detailed attempt at the Google Foobar Challenge.
    * [Distract the Guards](https://github.com/leander-dsouza/Google_Foobar_2020/tree/master/Level%204/distract-the-guards)
    
    * [Bringing a Gun to a Guard Fight](https://github.com/leander-dsouza/Google_Foobar_2020/tree/master/Level%204/bringing-a-gun-to-a-guard-fight)
+   
+   * [Running the Bunnies](https://github.com/leander-dsouza/Google_Foobar_2020/tree/master/Level%204/running-with-bunnies)
 
 
 ## Level 5
@@ -38,3 +40,8 @@ Collective codebase of a detailed attempt at the Google Foobar Challenge.
    * [Disorderly Escape](https://github.com/leander-dsouza/Google_Foobar_2020/tree/master/Level%205/disorderly-step)
    
    * [Expanding Nebula](https://github.com/leander-dsouza/Google_Foobar_2020/tree/master/Level%205/expanding-nebula)
+
+
+## For You Eyes Only - Decoding the Encrypted message
+
+   * [Decoder](https://github.com/leander-dsouza/Google_Foobar_2020/blob/master/For%20Your%20Eyes%20Only/decoder.py)
