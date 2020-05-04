@@ -1,5 +1,5 @@
-# Google Foobar 2020
-Personal codebase of a detailed attempt at Google Foobar 2020.
+# Google Foobar
+Collective codebase of a detailed attempt at the Google Foobar Challenge.
 
 
 ## Level 5
