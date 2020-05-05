@@ -11,3 +11,7 @@ for i, c in enumerate(base64.b64decode(MESSAGE)):
     result.append(chr(c ^ ord(KEY[i % len(KEY)])))
 
 print(''.join(result))
+
+#OUTPUT
+#{'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}
+
