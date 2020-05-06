@@ -1,5 +1,7 @@
 # Google Foobar
-Collective codebase of a detailed attempt at the Google Foobar Challenge.
+Collective codebase of a detailed attempt at the Google Foobar Challenge. 
+
+Refer to the [Wiki](https://github.com/leander-dsouza/Google_Foobar_2020/wiki) page to for problem insights and to know more about the platform.
 
 ## Level 1
 **Time**: 48 hours
